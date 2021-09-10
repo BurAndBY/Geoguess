@@ -38,6 +38,7 @@ This game was forked from [GeoGuess Master Web](https://github.com/spider-hand/G
 -   Custom Map (geojson)
 -   History
 -   Score
+-   Geoguessr-styled
 
 ## 🚀 Deploy
 
@@ -100,3 +101,6 @@ Licensed under [MIT License](https://github.com/GeoGuess/Geoguess/blob/master/LI
 Feel free to give us feedback.  
 [Issues](https://github.com/GeoGuess/Geoguess/issues) or
 [Discord](https://discord.gg/9GXm6RT)
+
+If you want to add something to my fork, contact me here:
+[Discord](https://discord.gg/HnXdfQestQ)
